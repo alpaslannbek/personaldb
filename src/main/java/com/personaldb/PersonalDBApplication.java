@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PersonaldbApplication {
+public class PersonalDBApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PersonaldbApplication.class, args);
+		SpringApplication.run(PersonalDBApplication.class, args);
 	}
 
 }
